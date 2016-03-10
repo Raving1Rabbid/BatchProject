@@ -1,0 +1,32 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace BatchProject
+{
+    public class Menu
+    {
+
+        public void Menue()
+        {
+            Createbatch createobj = new Createbatch();
+            Console.WriteLine("1 Batch erstellen");
+            Console.WriteLine("2 Exit");
+            string eingabe = Convert.ToString(Console.ReadLine());
+
+            if (eingabe == "1")
+            {
+                createobj.Create();
+            }
+            else
+            {
+
+            }
+
+
+        }
+
+    }
+}

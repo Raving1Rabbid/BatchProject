@@ -1,0 +1,6 @@
+C:\Users\Max\Documents\Visual Studio 2012\Projects\BatchProject\BatchProject\bin\Debug\BatchProject.exe.config
+C:\Users\Max\Documents\Visual Studio 2012\Projects\BatchProject\BatchProject\bin\Debug\BatchProject.exe
+C:\Users\Max\Documents\Visual Studio 2012\Projects\BatchProject\BatchProject\bin\Debug\BatchProject.pdb
+C:\Users\Max\Documents\Visual Studio 2012\Projects\BatchProject\BatchProject\obj\Debug\BatchProject.csprojResolveAssemblyReference.cache
+C:\Users\Max\Documents\Visual Studio 2012\Projects\BatchProject\BatchProject\obj\Debug\BatchProject.exe
+C:\Users\Max\Documents\Visual Studio 2012\Projects\BatchProject\BatchProject\obj\Debug\BatchProject.pdb
